@@ -1,0 +1,2 @@
+# Leave empty or add dummy key for now – demo works without real key
+OPENAI_API_KEY = "demo-only-no-key-needed"
